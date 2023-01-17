@@ -1,7 +1,7 @@
 body {
   position: relative;
   /* background-image: url("https://w.wallhaven.cc/full/l3/wallhaven-l3lrqy.jpg"); */
-  background-color: rgb(106, 234, 244);
+  background-color: rgb(200, 255, 200);
   background-repeat: no-repeat;
   background-size: 100%;
   font-size: 20px;
@@ -29,7 +29,7 @@ html {
 
 .name {
   position: absolute;
-  color: blue;
+  color: rgb(22, 22, 176);
   font-size: 25px;
   left: 1%;
   top: 11%;
@@ -56,8 +56,8 @@ html {
   top: 300px;
   left: 100px;
   width: 150px;
-  border: white 3px solid;
-  border-color: white;
+ 
+  border-color: rgb(236, 134, 134);
   border-radius: 25px;
   border-style: solid;
 
@@ -74,7 +74,7 @@ html {
 }
 .wenBen a,.game a {
   
-  color: rgb(183, 35, 178);
+  color: rgb(17, 93, 169);
 }
 a:link {
   color: rgb(232, 29, 188);
@@ -102,8 +102,7 @@ position: absolute;
   top: 300px;
   left: 300px;
   width: 150px;
-  border: white 3px solid;
-  border-color: white;
+ border-color: rgb(236, 134, 134);
   border-radius: 25px;
   border-style: solid;
 
